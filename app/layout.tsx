@@ -20,6 +20,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
+        <link rel="viewport" href="width=device-width, initial-scale=1" />
         <link rel="icon" href="/icon.png" type='image/png' />
       </head>
       <body className={inter.className}>
